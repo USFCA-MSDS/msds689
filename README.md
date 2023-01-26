@@ -89,6 +89,7 @@ A very useful set of [programming-concepts-for-data-science](https://github.com/
 * [Welcome!](notes/welcome.pdf) (Day 1)
 * Hashtable
   * Review [hash table construction from MSDS692 project]([https://github.com/USFCA-MSDS/msds692/blob/master/hw/search.md](https://github.com/USFCA-MSDS/msds692/blob/master/hw/search.md)#creating-an-index-using-your-own-hashtable)
+  * self review [hash table videos](https://www.youtube.com/watch?v=9JRx5rEpfp0&list=PLQfaHkBRINswCaAjD2hJMeggofwpZAb6U)
   * discuss [OO htable project](https://github.com/USFCA-MSDS/msds689/blob/master/projects/oohtable/oohtable.md)
 * [How to read code](notes/reading-code.pdf) (Day 1)
   * code refactoring on-the-fly for whole MSDS692 search project
@@ -118,7 +119,7 @@ Solution](https://leetcode.com/explore/learn/card/recursion-i/256/complexity-ana
 * [Graphs](notes/graphs.pdf) (Day 5, 6)
   * [Graphs notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/graphs.ipynb)
   * [Graph Algorithms Video](https://www.youtube.com/watch?v=JZuznAd9ceQ&list=PLQfaHkBRINsxZQABWTLK6TPe90T0v89U0)
-  * [Graph Algorithms Lecture] (https://github.com/USFCA-MSDS/msds689/blob/master/notes/graph_algorithms.pdf) 
+  * [Graph Algorithms Lecture](https://github.com/USFCA-MSDS/msds689/blob/master/notes/graph_algorithms.pdf) 
   * [Problem-solving exercise: LeetCode backtracking](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/) (Walking graphs often involves backtracking)
 
 The use of recursive algorithms will be emphasized frequently and wherever appropriate to reinforce this critical mechanism. Discussion of formal algorithm complexity will also be emphasized throughout the lectures.
