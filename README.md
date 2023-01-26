@@ -28,7 +28,7 @@ By the end of this course, students will be able to:
 
 **SPATIAL COORDINATES:**<br>
 
-Class is held at 101 Howard on main floor 154-156.
+Class is held at 101 Howard 527
 
 <!--
 * Class is held at 101 Howard in 5th floor classroom 527.
@@ -37,7 +37,10 @@ Class is held at 101 Howard on main floor 154-156.
 
 
 
-Lectures are Fridays 10-11:50AM California time
+Lectures are Thursday 
+
+10:00 am - 11:50 am (PT) for section 1
+1:00 pm - 2:50 pm	 (PT) for section 2
 
 <!--
 * Section 01: Fri 10-11:55AM
