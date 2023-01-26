@@ -34,7 +34,7 @@ By the end of this course, students will be able to:
 
 # Class details
 
-**INSTRUCTOR.** [Terence Parr](http://parrt.cs.usfca.edu). I’m an adjunct professor in the [data science program](https://www.usfca.edu/arts-sciences/graduate-programs/data-science) departments and was founding director of the MS in Data Science program at USF (which became the MS data science program).  Please call me Terence or Professor (not “Terry”).
+**INSTRUCTOR.** [Mustafa Hajij](https://www.usfca.edu/faculty/mustafa-hajij).
 
 **SPATIAL COORDINATES:**<br>
 
@@ -45,7 +45,7 @@ Class is held at 101 Howard on main floor 154-156.
 * My office is room 607 @ 101 Howard up on mezzanine
 -->
 
-**TEMPORAL COORDINATES.** Fri January 28, 2022 - Fri March 11, 2022
+
 
 Lectures are Fridays 10-11:50AM California time
 
@@ -63,11 +63,11 @@ Lectures are Fridays 10-11:50AM California time
 
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
-|[OO hashtable](projects/oohtable/oohtable.md)| 8% | Fri, Feb 4 11:59pm |
-|[Clustering](projects/kmeans/kmeans.md)| 17% | Sun, Feb 20 11:59pm |
-|[Feature selection and importance](projects/featimp/featimp.md)| 20% | Wed, Mar 9 11:59pm |
-|Exam 1| 25%| 4:30PM-5:30PM Thur Feb 17 |
-|Exam 2| 30%| 10AM-11:00AM Fri Mar 11 |
+|[OO hashtable](projects/oohtable/oohtable.md)| 8% | Fri, Feb 3 11:59pm |
+|[Clustering](projects/kmeans/kmeans.md)| 17% | Fri, Feb 21 11:59pm |
+|[Feature selection and importance](projects/featimp/featimp.md)| 20% | March, Mar 8 11:59pm |
+|Exam 1| 25%| 4:30PM-5:30PM Thur Feb 17 --- |
+|Exam 2| 30%| 10AM-11:00AM Fri Mar 10 --- |
 
 Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your quiz might not be a satisfying grade.
 
