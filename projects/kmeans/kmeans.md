@@ -30,6 +30,8 @@ def kmeans(X:np.ndarray, k:int, centroids=None, max_iter=30, tolerance=1e-2):
 
 where `centroids` is an *k* x *p* matrix containing the *k* centroids (vectors are *p* long). The `labels` return value is a list of length *n* the label associated with each input vector. I use the tolerance as a general guideline for comparing previous and next generation centroids. If the average norm of centroids-previous_centroids is less than the tolerance, I stop.  I also have `max_iter` as a failsafe to prevent it from going too long. By default, `centroids=None` indicates that your algorithm should randomly select *k* unique centroids. 
 
+You can review my lecture here [kmeans lecture](https://github.com/USFCA-MSDS/msds689/blob/master/notes/K_means.pdf )
+
 ### Testing on some synthetic data
 
 Here's a sample run on one dimensional data using some fake grade data:
@@ -147,6 +149,9 @@ plt.show()
 <img src="nested-spectral.png" width="300">
 
 That example uses a built-in mechanism called "nearest neighbors" to compute the distance between all pairs of records. When there is categorical data or the number of dimensions gets very high, Euclidean and similar distance measures are inappropriate. To solve this last from, see the next section.
+
+You can review my lecture here [spectral clustering lecture](https://github.com/USFCA-MSDS/msds689/blob/master/notes/spectral.pdf )
+
 
 ### Advanced: using RFs to compute similarity matrices
 
