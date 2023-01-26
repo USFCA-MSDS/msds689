@@ -94,7 +94,6 @@ A very useful set of [programming-concepts-for-data-science](https://github.com/
   * self review [hash table videos](https://www.youtube.com/watch?v=9JRx5rEpfp0&list=PLQfaHkBRINswCaAjD2hJMeggofwpZAb6U)
   * discuss [OO htable project](https://github.com/USFCA-MSDS/msds689/blob/master/projects/oohtable/oohtable.md)
 * [How to read code](notes/reading-code.pdf) (Day 1)
-  * code refactoring on-the-fly for whole MSDS692 search project
 * [Problem-solving](notes/problem-solving.pdf) (Day 1)
   * [Problem-solving exercise: LeetCode palindromes](https://github.com/USFCA-MSDS/msds689/blob/master/labs/problem-solving-palindromes.ipynb)
   * [Practice Quiz: OO programming](https://github.com/USFCA-MSDS/msds689/blob/master/labs/quiz-oo.ipynb)
