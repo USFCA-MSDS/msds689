@@ -72,7 +72,7 @@ Each project has a hard deadline and only those projects working correctly befor
 
 # Review and Resources
 
-* Review [OO notebook](https://github.com/parrt/msds501/blob/master/notes/OO.ipynb) and [Operator overloading notebook](notes/operator-overloading.ipynb)
+* Review [OO notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/OO.ipynb) and [Operator overloading notebook](notes/operator-overloading.ipynb)
 
 Here is a great free book on [algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/).
 
@@ -88,7 +88,7 @@ A very useful set of [programming-concepts-for-data-science](https://github.com/
 
 * [Welcome!](notes/welcome.pdf) (Day 1)
 * Hashtable
-  * Review [hash table construction from MSDS692 project]([https://github.com/parrt/msds692/blob/master/hw/search.md](https://github.com/USFCA-MSDS/msds692/blob/master/hw/search.md)#creating-an-index-using-your-own-hashtable)
+  * Review [hash table construction from MSDS692 project]([https://github.com/USFCA-MSDS/msds692/blob/master/hw/search.md](https://github.com/USFCA-MSDS/msds692/blob/master/hw/search.md)#creating-an-index-using-your-own-hashtable)
   * discuss [OO htable project](https://github.com/USFCA-MSDS/msds689/blob/master/projects/oohtable/oohtable.md)
 * [How to read code](notes/reading-code.pdf) (Day 1)
   * code refactoring on-the-fly for whole MSDS692 search project
