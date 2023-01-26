@@ -8,13 +8,6 @@ The goal is to give students a deeper and more general view of data structures a
 
 At the end of the last module, we studied feature importance and briefly touched on clustering.  There was not time to study these topics in more detail through projects, but they are important and students report getting related interview questions extremely frequently. Consequently, while seemingly a bit out of place, the faculty has decided to include free-form reports on these machine-learning related topics in this data structures and algorithms class. Here are two quick comments I received from the last cohort concerning these projects:
 
-<table><tr><td>
-<img src="student-featimp.png" width="600">
-</td></tr></table>
-
-<table><tr><td>
-<img src="student-kmeans.png" width="550">
-</td></tr></table>
 
 # Course Learning Objectives (CLOs)
 
