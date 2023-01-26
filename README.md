@@ -61,8 +61,8 @@ Lectures are Thursday
 |[OO hashtable](projects/oohtable/oohtable.md)| 8% | Fri, Feb 3 11:59pm |
 |[Clustering](projects/kmeans/kmeans.md)| 17% | Fri, Feb 21 11:59pm |
 |[Feature selection and importance](projects/featimp/featimp.md)| 20% | March, Mar 8 11:59pm |
-|Exam 1| 25%| 4:30PM-5:30PM Thur Feb 17 --- |
-|Exam 2| 30%| 10AM-11:00AM Fri Mar 10 --- |
+|Exam 1| 25%| Thur Feb 17 --- |
+|Exam 2| 30%| Fri Mar 10 --- |
 
 Note: In order to pass this course, students are expected to receive at least 50% of each category. E.g., receiving less than 29/60 on your quiz might not be a satisfying grade.
 
