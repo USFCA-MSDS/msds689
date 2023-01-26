@@ -5,9 +5,6 @@ This course is part of the [MS in Data Science program at the University of San 
 
 The goal is to give students a deeper and more general view of data structures and algorithms. While students have examined a number of data structures, such as binary trees, already, this course provides a much more in-depth study. This depth will benefit them greatly in the advanced machine learning course. This course also tends to address many of the difficult algorithm questions students get during job interviews. The critical data structures covered in this class are: lists, linked lists, trees, graphs, hash tables, and tries. The course also covers a variety of common and useful recursive and non-recursive algorithms, such as searching and sorting.
 
-<table><tr><td>
-<img src="student-trie.png" width="350">
-</td></tr></table>
 
 At the end of the last module, we studied feature importance and briefly touched on clustering.  There was not time to study these topics in more detail through projects, but they are important and students report getting related interview questions extremely frequently. Consequently, while seemingly a bit out of place, the faculty has decided to include free-form reports on these machine-learning related topics in this data structures and algorithms class. Here are two quick comments I received from the last cohort concerning these projects:
 
