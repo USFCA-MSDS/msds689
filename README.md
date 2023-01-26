@@ -88,7 +88,7 @@ A very useful set of [programming-concepts-for-data-science](https://github.com/
 
 * [Welcome!](notes/welcome.pdf) (Day 1)
 * Hashtable
-  * Review [hash table construction from MSDS692 project](https://github.com/parrt/msds692/blob/master/hw/search.md#creating-an-index-using-your-own-hashtable)
+  * Review [hash table construction from MSDS692 project]([https://github.com/parrt/msds692/blob/master/hw/search.md](https://github.com/USFCA-MSDS/msds692/blob/master/hw/search.md)#creating-an-index-using-your-own-hashtable)
   * discuss [OO htable project](https://github.com/USFCA-MSDS/msds689/blob/master/projects/oohtable/oohtable.md)
 * [How to read code](notes/reading-code.pdf) (Day 1)
   * code refactoring on-the-fly for whole MSDS692 search project
