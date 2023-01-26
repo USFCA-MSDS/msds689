@@ -101,6 +101,7 @@ A very useful set of [programming-concepts-for-data-science](https://github.com/
   * [Practice Quiz: core data structures](https://github.com/USFCA-MSDS/msds689/blob/master/labs/quiz-core-structures.ipynb)
 * [Introduction to algorithm complexity](notes/complexity.pdf) (“Big-O” notation)  (Day 2,3)
   * [Measuring execution time notebook](notes/execution-time.ipynb)
+  * [Additional lectures](https://www.youtube.com/watch?v=uu_nX7OEy_c&list=PLQfaHkBRINswUNbAHUOwi1tTxFxi1xUII)
   * [Practice Quiz: complexity](https://github.com/USFCA-MSDS/msds689/blob/master/labs/quiz-complexity.ipynb)
 * [Getting a grip on recursion](notes/recursion.pdf) (Day 3)
   * [recursion notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/recursion-notebook.ipynb)
@@ -116,6 +117,8 @@ Solution](https://leetcode.com/explore/learn/card/recursion-i/256/complexity-ana
   * Instead of LeetCode, implement the TRIE search found mentioned in slides
 * [Graphs](notes/graphs.pdf) (Day 5, 6)
   * [Graphs notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/graphs.ipynb)
+  * [Graph Algorithms Video](https://www.youtube.com/watch?v=JZuznAd9ceQ&list=PLQfaHkBRINsxZQABWTLK6TPe90T0v89U0)
+  * [Graph Algorithms Lecture] (https://github.com/USFCA-MSDS/msds689/blob/master/notes/graph_algorithms.pdf) 
   * [Problem-solving exercise: LeetCode backtracking](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/) (Walking graphs often involves backtracking)
 
 The use of recursive algorithms will be emphasized frequently and wherever appropriate to reinforce this critical mechanism. Discussion of formal algorithm complexity will also be emphasized throughout the lectures.
