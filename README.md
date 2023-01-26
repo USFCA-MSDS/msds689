@@ -40,6 +40,8 @@ Class is held at 101 Howard 527
 Lectures are Thursday 
 
 10:00 am - 11:50 am (PT) for section 1
+
+
 1:00 pm - 2:50 pm	 (PT) for section 2
 
 <!--
