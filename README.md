@@ -96,33 +96,33 @@ A very useful set of [programming-concepts-for-data-science](https://github.com/
 * [Welcome!](notes/welcome.pdf) (Day 1)
 * Hashtable
   * Review [hash table construction from MSDS692 project](https://github.com/parrt/msds692/blob/master/hw/search.md#creating-an-index-using-your-own-hashtable)
-  * discuss [OO htable project](https://github.com/parrt/msds689/blob/master/projects/oohtable/oohtable.md)
+  * discuss [OO htable project](https://github.com/USFCA-MSDS/msds689/blob/master/projects/oohtable/oohtable.md)
 * [How to read code](notes/reading-code.pdf) (Day 1)
   * code refactoring on-the-fly for whole MSDS692 search project
 * [Problem-solving](notes/problem-solving.pdf) (Day 1)
-  * [Problem-solving exercise: LeetCode palindromes](https://github.com/parrt/msds689/blob/master/labs/problem-solving-palindromes.ipynb)
-  * [Practice Quiz: OO programming](https://github.com/parrt/msds689/blob/master/labs/quiz-oo.ipynb)
+  * [Problem-solving exercise: LeetCode palindromes](https://github.com/USFCA-MSDS/msds689/blob/master/labs/problem-solving-palindromes.ipynb)
+  * [Practice Quiz: OO programming](https://github.com/USFCA-MSDS/msds689/blob/master/labs/quiz-oo.ipynb)
 * [Core data structures](notes/core-data-structures.pdf) (Day 2)
   * [Problem-solving exercise: LeetCode Merge two sorted linked lists](https://leetcode.com/problems/merge-two-sorted-lists/)
   * [Review binary trees from MSDS621](https://github.com/parrt/msds621/blob/master/labs/trees/binary-trees.ipynb)
-  * [Practice Quiz: core data structures](https://github.com/parrt/msds689/blob/master/labs/quiz-core-structures.ipynb)
+  * [Practice Quiz: core data structures](https://github.com/USFCA-MSDS/msds689/blob/master/labs/quiz-core-structures.ipynb)
 * [Introduction to algorithm complexity](notes/complexity.pdf) (“Big-O” notation)  (Day 2,3)
   * [Measuring execution time notebook](notes/execution-time.ipynb)
-  * [Practice Quiz: complexity](https://github.com/parrt/msds689/blob/master/labs/quiz-complexity.ipynb)
+  * [Practice Quiz: complexity](https://github.com/USFCA-MSDS/msds689/blob/master/labs/quiz-complexity.ipynb)
 * [Getting a grip on recursion](notes/recursion.pdf) (Day 3)
-  * [recursion notebook](https://github.com/parrt/msds689/blob/master/notes/recursion-notebook.ipynb)
+  * [recursion notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/recursion-notebook.ipynb)
   * [Problem-solving exercise: LeetCode Reverse linked list recursively](https://leetcode.com/explore/learn/card/recursion-i/251/scenario-i-recurrence-relation/2378/)
   * [Problem-solving exercise: LeetCode Maximum Depth of Binary Tree
 Solution](https://leetcode.com/explore/learn/card/recursion-i/256/complexity-analysis/2375/)
 * [Walking data structures](notes/walking-structures.pdf) (Day 4)
-  * [walking notebook](https://github.com/parrt/msds689/blob/master/notes/walking.ipynb)
+  * [walking notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/walking.ipynb)
 * [Sorting](notes/sorting.pdf) (Day 4)
-  * [Sorting notebook](https://github.com/parrt/msds689/blob/master/notes/sorting.ipynb)
+  * [Sorting notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/sorting.ipynb)
 * [Searching](notes/searching.pdf) (Day 5)
-  * [Searching notebook](https://github.com/parrt/msds689/blob/master/notes/searching.ipynb)
+  * [Searching notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/searching.ipynb)
   * Instead of LeetCode, implement the TRIE search found mentioned in slides
 * [Graphs](notes/graphs.pdf) (Day 5, 6)
-  * [Graphs notebook](https://github.com/parrt/msds689/blob/master/notes/graphs.ipynb)
+  * [Graphs notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/graphs.ipynb)
   * [Problem-solving exercise: LeetCode backtracking](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/) (Walking graphs often involves backtracking)
 
 The use of recursive algorithms will be emphasized frequently and wherever appropriate to reinforce this critical mechanism. Discussion of formal algorithm complexity will also be emphasized throughout the lectures.
@@ -158,3 +158,4 @@ CAPS provides confidential, free <a href="/student-health-safety/caps">counselin
 *Confidentiality, Mandatory Reporting, and Sexual Assault*
 
 For information and resources regarding sexual misconduct or assault visit the <a href="/TITLE-IX">Title IX</a> coordinator or USFs <a href="http://usfca.callistocampus.org" target="_blank">Callisto website</a>.
+
