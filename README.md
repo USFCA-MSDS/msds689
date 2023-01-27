@@ -78,6 +78,9 @@ Each project has a hard deadline and only those projects working correctly befor
 
 Here is a great free book on [algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/).
 
+A great book that is not free is here [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_1?keywords=introduction+to+algorithms&qid=1674784191&sprefix=introduction+t%2Caps%2C174&sr=8-1)
+
+
 <!--
 I'll be pulling some material from Kleinberg and Tardos, *Algorithm Design*. US copyright law allows me to make copies of small portions of books for educational use, which I have done. Please see compressed pdf `kleinberg-common-running-times.7z` in Canvas course files area. (Do not post that material publicly.)
 -->
