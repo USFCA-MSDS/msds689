@@ -129,6 +129,6 @@ test_oohtable.py::test_wordfreq PASSED                                          
 
 ## Deliverables
 
-You must complete and add the following file to the root of your `oohtable-`*userid* repository in the USF-MSDS689 organization.
+You must complete and add the following file to the root of your github repository in the USFCA-courses organization.
 
 * `oohtable.py`
