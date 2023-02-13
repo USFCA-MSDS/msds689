@@ -113,7 +113,7 @@ I strongly recommend that you start out with a very small grayscale image to tes
  
 ### Color
 
-As an example of color compression, here is your [favorite instructor](parrt-vancouver.jpg) in Vancouver as a disembodied head visiting Chinatown and a compressed version that uses only 32 colors (takes mine 3m18s to complete limited to 30 iterations):
+As an example of color compression that uses only 32 colors:
 
 <img src="parrt-vancouver.jpg" width="50%"><img src="parrt-vancouver-k32.png" width="50%">
 
@@ -129,7 +129,6 @@ img_ = Image.fromarray(X.reshape((h,w,3)))
 img_.show()
 ```
 
-For testing, I cut out and used my [eyes](eyes.png) from that Vancouver shot. <img src="eyes.png" width="50">
 
 ## Spectral clustering
 
