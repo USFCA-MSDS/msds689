@@ -59,7 +59,7 @@ Lectures are Thursday
 | Artifact | Grade Weight | Due date |
 |--------|--------|--------|
 |[OO hashtable](projects/oohtable/oohtable.md)| 8% | Fri, Feb 3 11:59pm |
-|[Clustering](projects/kmeans/kmeans.md)| 17% | Fri, Feb 24 11:59pm |
+|[Clustering](projects/kmeans/kmeans.md)| 17% | Sat, Feb 25 11:59pm |
 |[Feature selection and importance](projects/featimp/featimp.md)| 20% | March, Mar 8 11:59pm |
 |Exam 1| 25%| Thur Feb 17 --- |
 |Exam 2| 30%| Fri Mar 10 --- |
