@@ -124,6 +124,7 @@ Solution](https://leetcode.com/explore/learn/card/recursion-i/256/complexity-ana
   * [Graphs notebook](https://github.com/USFCA-MSDS/msds689/blob/master/notes/graphs.ipynb)
   * [Graph Algorithms Video](https://www.youtube.com/watch?v=JZuznAd9ceQ&list=PLQfaHkBRINsxZQABWTLK6TPe90T0v89U0)
   * [Graph Algorithms Lecture](https://github.com/USFCA-MSDS/msds689/blob/master/notes/graph_algorithms.pdf) 
+  * [DL Application of Topological Sort](https://github.com/USFCA-MSDS/msds689/blob/master/notes/Auto_diff_and%20NN.pdf) 
   * [Problem-solving exercise: LeetCode backtracking](https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/795/) (Walking graphs often involves backtracking)
 
 The use of recursive algorithms will be emphasized frequently and wherever appropriate to reinforce this critical mechanism. Discussion of formal algorithm complexity will also be emphasized throughout the lectures.
