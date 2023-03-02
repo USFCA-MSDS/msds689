@@ -38,7 +38,7 @@ I'm sure something better could be done. For example, from [this blog post](http
  
 ## Model-based importance strategies
 
-The default feature importance that uses so-called *gini drop* for random forests in the sklearn lib is known to be biased. You will want to check out [Beware Default Random Forest Importances](https://explained.ai/rf-importance/index.html), which I wrote with Jeremy Howard and two previous students. The result of that article became the [rfpimp package](https://github.com/parrt/random-forest-importances), which contains simple implementations for:
+The default feature importance that uses so-called *gini drop* for random forests in the sklearn lib is known to be biased. You will want to check out [Beware Default Random Forest Importances](https://explained.ai/rf-importance/index.html). The result of that article became the [rfpimp package](https://github.com/parrt/random-forest-importances), which contains simple implementations for:
  
 * permutation importance
 * drop column importance
