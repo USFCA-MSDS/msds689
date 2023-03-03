@@ -10,7 +10,6 @@ You will work under `featimp-`*userid* repo and create a support file called `fe
 
 That way you can keep big chunks of functions out of your notebook and the notebook can be primarily about explanations and visualizations. (You can link to the code from the notebook of course.)
 
-**Warning:** You must implement your own code here, despite there being implementations available for you to read on the Internet. The goal is for you to learn as much as possible from this course. You will get out of this what you put into it.
 
 ## Importance strategies working directly from the data
 
@@ -60,7 +59,7 @@ You can make a different graph for top-*k* as tested with OLS, RF, and XGBoost. 
  
 ## Automatic feature selection algorithm
 
-Once you have an ordering of features from most to least important, we need a mechanism to drop off unimportant features and keep the top *k*, for some *k* we don't know beforehand. Implement an automated mechanism that selects the top *k* features automatically that gives the best validation error. In other words, get a baseline validation metric appropriate for a classifier or a regressor then get the feature importances. Dropped the lowest importance feature and retrain the model and re-computing the validation metric. If the validation metric is worse, then we have dropped one too many features. Because of codependencies between features, you must recompute the feature importances after dropping each feature.
+Once you have an ordering of features from most to least important, we need a mechanism to drop off unimportant features and keep the top *k*, for some *k* we don't know beforehand. Implement an automated mechanism that selects the top *k* features automatically that gives the best validation error. In other words, get a baseline validation metric appropriate for a classifier or a regressor then get the feature importances. Dropped the lowest importance feature and retrain the model and re-computing the validation metric. If the validation metric is worse, then we have dropped one too many features. Because of codependencies between features, you should recompute the feature importances after dropping each feature.
 
 In your report, you should make it clear how the algorithm works and the results. That means you will have to come up with a way to visualize or describe the results.
 
